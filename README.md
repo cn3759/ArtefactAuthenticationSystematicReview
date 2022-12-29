@@ -16,8 +16,12 @@ In order to provide further assurance, an analysis.py python script has been pro
 To runt eh script copy it to a local directory along with the SCOPUS export RTF file. Rename the RTF to 'input.txt' and run 'python analysis.py' (using Python 2). The output shows the number of duplicates. Example output is shown below:
 
 $ python analysis.py
+
 Counter final value: 1257
+
 Number of duplicates found: 0
+
 Length of results: 1257
+
 Length of expected ID values NOT used (should be 0): 0
 
